@@ -1,4 +1,5 @@
-package dev.lpa;
+package Section17_JavaConcurrencyAndMultithreading.ParallelStreams;
+
 
 import java.util.Arrays;
 import java.util.Random;
@@ -29,3 +30,4 @@ public class Main {
                 delta / iterations, delta / 1000000.0 / iterations);
     }
 }
+
