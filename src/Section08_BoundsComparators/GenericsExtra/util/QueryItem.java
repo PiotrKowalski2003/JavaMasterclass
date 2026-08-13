@@ -1,0 +1,7 @@
+package Section08_BoundsComparators.GenericsExtra.util;
+
+public interface QueryItem {
+
+    public boolean matchFieldValue(String fieldName, String value);
+}
+
