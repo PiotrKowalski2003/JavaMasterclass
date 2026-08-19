@@ -44,4 +44,3 @@ public class ContactData {
         return dataList;
     }
 }
-
