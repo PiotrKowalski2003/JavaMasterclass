@@ -70,4 +70,3 @@ public class Main {
         contacts.forEach(System.out::println);
     }
 }
-
